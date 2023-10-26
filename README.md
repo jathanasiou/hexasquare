@@ -1,6 +1,10 @@
 # hexasquare
 Hybrid hex/square grid generator
 
+## Example image generation
+
+![alt text](example.png)
+
 
 ## Build
 Has been developer with python 3.11. Local builds with be done with Python3's `venv`:
