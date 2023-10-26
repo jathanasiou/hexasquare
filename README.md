@@ -1,5 +1,5 @@
 # hexasquare
-Hybrid hex/square grid generator. Inspired from an amazing discussion over at https://www.bgdf.com/node/10420.
+Hybrid hex/square grid generator. Inspired from an amazing discussion over at https://www.bgdf.com/node/10420. Bless [Wikipedia math](https://en.wikipedia.org/wiki/Hexagon).
 
 ## Example image generation
 
