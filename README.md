@@ -3,11 +3,16 @@ Hybrid hex/square grid generator
 
 ## Example image generation
 
-![alt text](example.png)
+![Example image](example.png)
 
+## TODO
+- Generate PDF
+- Parse args for execution parameters
+- Support non-A4 layouts
+- Calculate "size-in-paper" and generate image for given size
 
 ## Build
-Has been developed with python 3.11. Local builds with be done with Python3's `venv`:
+Has been developed with python 3.11. Local runs with be done with Python3's `venv` to grab the dependencies:
 
 ### Linux
 ```bash

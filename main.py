@@ -4,9 +4,9 @@ import drawsvg as draw
 A4_X = 210
 A4_Y = 297
 
-HEXR_outer = 100 # also Length of each side
+HEXR_outer = 80 # also Length of each side
 HEXR_inner = HEXR_outer * cos(pi/6)
-HEX_THICC = 1
+HEX_THICC = 3
 SQ_THICC = 2
 
 diff_x = 2   * HEXR_inner
@@ -70,7 +70,7 @@ def draw_grid(count_x, count_y):
 # draw_hex(diff_x,     2*diff_y, 'brown')
 # draw_hex(2*diff_x,   2*diff_y, 'red')
 
-draw_grid(4,6)
+draw_grid(6,10)
 
 canvas.set_pixel_scale(4)  # Set number of pixels per geometry unit
 # canvas.set_render_size(A4_X*10, A4_Y*10)  # Alternative to set_pixel_scale
