@@ -7,7 +7,7 @@ Hybrid hex/square grid generator
 
 
 ## Build
-Has been developer with python 3.11. Local builds with be done with Python3's `venv`:
+Has been developed with python 3.11. Local builds with be done with Python3's `venv`:
 
 ### Linux
 ```bash
