@@ -7,6 +7,7 @@ Hybrid hex/square grid generator. Inspired from an amazing discussion over at ht
 
 ## TODO
 - Generate PDF
+- Review visibility/layering to make both grids easy to read
 - Parse args for execution parameters
 - Support non-A4 layouts
 - Calculate "size-in-paper" and generate image for given size
